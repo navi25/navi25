@@ -1,0 +1,27 @@
+{
+  "name": "navi",
+  "version": "1.0.0",
+  "description": "My cli resume  ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/navi25/navi.git"
+  },
+  "author": "Navendra Jha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/navi25/navi/issues"
+  },
+  "homepage": "https://github.com/navi25/navi#readme",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
+  "dependencies": {
+    "cfonts": "^2.2.3",
+    "inquirer": "^6.2.0",
+    "opn": "^5.4.0"
+  }
+}
