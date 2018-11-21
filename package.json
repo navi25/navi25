@@ -1,21 +1,26 @@
 {
-  "name": "navi",
-  "version": "1.0.0",
+  "name": "navi25",
+  "version": "1.0.1",
   "description": "My cli resume  ",
   "main": "index.js",
+  "bin": {
+    "navi25": "./index.js"
+  },
+
   "scripts": {
+    "navi25": "./index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/navi25/navi.git"
+    "url": "git+https://github.com/navi25/navi25.git"
   },
   "author": "Navendra Jha",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/navi25/navi/issues"
+    "url": "https://github.com/navi25/navi25/issues"
   },
-  "homepage": "https://github.com/navi25/navi#readme",
+  "homepage": "https://github.com/navi25/navi25#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
