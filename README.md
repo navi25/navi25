@@ -8,7 +8,7 @@ A software engineer focused on Android and Distributed Systems.
 <p align="left">
 <a href="https://twitter.com/thedroidboy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="thedroidboy" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/navendra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="navendra" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/navi25" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="navi25" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/story/navi25" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="navi25" height="30" width="40" /></a>
 <a href="https://medium.com/@navendra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="navendra" height="30" width="40" /></a>
 </p>
 
